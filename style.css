@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+#start_button,#object_found,#status{
+    font-size: 18px;
+}
+
+canvas{
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 5px;
+    margin-top: 150px;
+}
+
+#object_input{
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 400px;
+    text-align: center;
+}
